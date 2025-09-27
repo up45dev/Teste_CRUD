@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Aplicação principal do Sistema de Gerenciamento de Projetos e Tarefas
  * 
- * @author MiniMax Agent
+ * @author Felipe Leitao
  * @version 1.0.0
  */
 @SpringBootApplication
