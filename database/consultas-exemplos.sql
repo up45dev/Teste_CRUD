@@ -1,7 +1,7 @@
 -- =============================================================================
 -- PARTE 3 - Exemplos de Consultas SQL (Sintaxe compatível com DB2)
 -- Sistema de Gestão de Tarefas
--- Autor: MiniMax Agent
+-- Autor: Felipe Leitao
 -- Data: 2025-09-28
 -- =============================================================================
 
