@@ -302,4 +302,4 @@ Este sistema agora oferece uma **solução corporativa completa** para gerenciam
 
 **Sistema desenvolvido de acordo com as melhores práticas de engenharia de software, pronto para ambiente de produção corporativo.**
 
-*Desenvolvido por MiniMax Agent - 2025-09-28*
+*Desenvolvido por Felipe Leitao - 2025-09-28*
