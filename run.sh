@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script para execução do Sistema de Gerenciamento de Projetos e Tarefas
-# Autor: MiniMax Agent
+# Autor: Felipe Leitao
 
 echo "========================================"
 echo "Sistema de Gerenciamento de Projetos"

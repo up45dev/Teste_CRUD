@@ -1,6 +1,6 @@
 @echo off
 REM Script para execução do Sistema de Gerenciamento de Projetos e Tarefas (Windows)
-REM Autor: MiniMax Agent
+REM Autor: Felipe Leitao
 
 echo ========================================
 echo Sistema de Gerenciamento de Projetos
